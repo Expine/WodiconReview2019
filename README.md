@@ -9,6 +9,9 @@
 * レビュー内容は主にプレイ当時のバージョンに基づいています。最新バージョンと異なる場合がありますがご了承ください。
 
 # 前書き
+<!--
+[![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/CMbanner.png)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml)
+-->
 
 <input type="button" class="bad_button" value="">
 
@@ -25,6 +28,7 @@
 * オチがついています
 
 ### 気になった点
+
 <div class="bad">
 
 * メニューが不要に感じました
