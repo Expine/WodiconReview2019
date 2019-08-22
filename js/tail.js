@@ -43,6 +43,9 @@ function sortEvent(tbody, idx) {
 const bad = "気になった点";
 for (var idx = 1; idx < 70; ++idx) {
 	const main = document.getElementById(`${bad}-${idx}`);
+	if (main == null) {
+		continue;
+	}
 	const list = main.nextElementSibling;
 	if (list.tagName.toLowerCase() == "ul") {
 		var insert = document.createElement("div");
