@@ -45,8 +45,8 @@ function toggle_bad() {
 	Array.prototype.slice.call(document.querySelectorAll(".bad_button")).forEach(it => {
 		let isBad = document.querySelector('.bad').style.display == 'block';
 		it.value = isBad ? "ネガティブな点を見る状態です" : "ネガティブな点を見ない状態です";
-		if(isBad) 	{ it.classList.add(`btn-primary`); it.classList.remove(`btn-secondary`); }
-		else		{ it.classList.remove(`btn-primary`); it.classList.add(`btn-secondary`); }
+		if(isBad) 	{ it.classList.add(`btn-primary`); it.classList.remove(`btn-default`); }
+		else		{ it.classList.remove(`btn-primary`); it.classList.add(`btn-default`); }
 	});
 }
 
