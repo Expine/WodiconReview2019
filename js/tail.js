@@ -40,6 +40,19 @@ function sortEvent(tbody, idx) {
 // 		ths[j].addEventListener("click", sortEvent(ts[i].tBodies[0], j));
 // }
 
+const bad = "気になった点";
+for (var idx = 1; idx < 70; ++idx) {
+	const main = document.getElementById(`${bad}-${idx}`);
+	const list = main.nextElementSibling;
+	if (list.tagName.toLowerCase() == "ul") {
+		var insert = document.createElement("div");
+		insert.className = "bad";
+		main.parentNode.insertBefore(insert, list);
+		list.parentNode.removeChild(list);
+		insert.appendChild(list);
+	}
+}
+
 function toggle_bad() {
 	Array.prototype.slice.call(document.querySelectorAll(".bad")).forEach(it => it.style.display == "none" ? it.style.display = "block" : it.style.display = "none")
 	Array.prototype.slice.call(document.querySelectorAll(".bad_button")).forEach(it => {
