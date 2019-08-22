@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-<script src="js/head.js" />
+<script src="js/head.js"></script>
 
 # 注意
 * このレビューは、筆者個人の独断と偏見によって書かれています。筆者の好みが多分に影響していますことをご了承ください。
@@ -691,4 +691,4 @@
 
 # 後記
 
-<script src="js/tail.js" />
+<script src="js/tail.js"></script>
