@@ -4,6 +4,8 @@ const disc = "このレビューは個人の独断と偏見で書かれた、第
 const url = "https://expine.github.io/WodiconReview2019/";
 const image = "https://trap.jp/content/images/2018/08/wall.png";
 const head = document.getElementsByTagName("head")[0];
+// 言語
+document.children[0].lang = "ja";
 // タイトル修正
 head.querySelector("title").innerText = titleWithName;
 // メタタグ修正
