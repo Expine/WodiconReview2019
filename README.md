@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
 <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.css">
-<script src="bootstrap/js/bootstrap.min.js"></script>
 <script src="js/head.js"></script>
 
 # 注意
@@ -44,8 +43,9 @@ WOLF RPGエディターコンテスト(ウディコン)は、ウディタ製の�
 レビューの文章を書いています
 
 # お品書き
+
 <!-- TOC -->
-* [レビュー](#レビュー)
+* レビュー
   * [1. 喰ったり喰われたりのケモプレデーションサーガ](#1喰ったり喰われたりのケモプレデーションサーガ)
   * [2. 夜を歩く](#2夜を歩く)
   * [3. GIGANT FORCE SLASH](#3gigant-force-slash)
@@ -157,7 +157,12 @@ WOLF RPGエディターコンテスト(ウディコン)は、ウディタ製の�
 | パズルっぽいノベル | 二代目天ぷらマン | 45分 | 7/20 | クリア | - | - |
 
 ### 良かった点
+* 物語が素晴らしいです
+  * 断片をもって構成し、物語を渡り、違和感を収斂させる展開は美しいです
+  * 物語としては綺麗にまとまっていながら、咀嚼する余韻は残されています
 ### 気になった点
+* 確率収束を使う際に、いちいち選択肢の一つ目に戻されるのが面倒でした
+
 ### レビュー
 
 ## 3.GIGANT FORCE SLASH

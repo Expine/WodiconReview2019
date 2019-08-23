@@ -47,7 +47,7 @@ for (var idx = 1; idx < 70; ++idx) {
 		continue;
 	}
 	const list = main.nextElementSibling;
-	if (list.tagName.toLowerCase() == "ul") {
+	if (list != null && list.tagName.toLowerCase() == "ul") {
 		var insert = document.createElement("div");
 		insert.className = "bad";
 		main.parentNode.insertBefore(insert, list);
