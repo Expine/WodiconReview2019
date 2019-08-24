@@ -48,13 +48,23 @@ for (var idx = 1; idx < 70; ++idx) {
 	}
 	const list = main.nextElementSibling;
 	if (list != null && list.tagName.toLowerCase() == "ul") {
-		var insert = document.createElement("div");
+		const insert = document.createElement("div");
 		insert.className = "bad";
 		main.parentNode.insertBefore(insert, list);
 		list.parentNode.removeChild(list);
 		insert.appendChild(list);
 	}
 }
+
+const index = document.getElementById("お品書き");
+const indexList = index.nextElementSibling;
+const insertDetail = document.createElement("details");
+const insertSummary = document.createElement("summary");
+indexList.parentElement.insertBefore(insertDetail, indexList);
+insertSummary.innerText = "お品書き(クリックして展開)";
+insertDetail.appendChild(insertSummary);
+indexList.parentElement.removeChild(indexList);
+insertDetail.appendChild(indexList);
 
 function toggle_bad() {
 	Array.prototype.slice.call(document.querySelectorAll(".bad")).forEach(it => it.style.display == "none" ? it.style.display = "block" : it.style.display = "none")
