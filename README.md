@@ -123,7 +123,7 @@ WOLF RPGエディターコンテスト(ウディコン)は、ウディタ製の�
 # レビュー
 ## 1.喰ったり喰われたりのケモプレデーションサーガ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/01.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/01.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#1)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -154,7 +154,7 @@ WOLF RPGエディターコンテスト(ウディコン)は、ウディタ製の�
 
 ## 2.夜を歩く
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/02.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/02.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#2)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -187,7 +187,7 @@ WOLF RPGエディターコンテスト(ウディコン)は、ウディタ製の�
 
 ## 3.GIGANT FORCE SLASH
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/03.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/03.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#3)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -223,7 +223,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 4.遺跡ラビッツ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/04.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/04.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#4)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -265,7 +265,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 5.ケルリート -Littlewitch of Kelritos-
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/05.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/05.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#5)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -310,7 +310,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 6.ハートナイトメア
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/06.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/06.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#6)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -349,7 +349,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 7.ラックスの冒険～偽りの物語～
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/07.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/07.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#7)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -383,7 +383,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 8.虚構の君と夢遊病者のしゅうまつ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/08.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/08.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#8)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -416,7 +416,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 9.トリアージ勇者
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/09.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/09.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#9)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -454,7 +454,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 10.ポルト・ガーディア
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/10.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/10.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#10)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -494,7 +494,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 11.サラと不思議な物語
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/11.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/11.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#11)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -532,7 +532,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 12.フラグメントワールド
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/12.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/12.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#12)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -568,7 +568,7 @@ GIGANT FORCE SLASHは、連打力と維持力が求められる連打ゲーム�
 
 ## 13.PRESS START
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/13.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/13.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#13)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -610,7 +610,7 @@ PRESS STARTは、寄り道要素の多い探索ゲームです。
 
 ## 14.彼らの狂機調査録
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/14.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/14.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#14)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -651,7 +651,7 @@ PRESS STARTは、寄り道要素の多い探索ゲームです。
 
 ## 15.小説家シミュレーター
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/15.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/15.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#15)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -683,7 +683,7 @@ PRESS STARTは、寄り道要素の多い探索ゲームです。
 
 ## 16.言葉週間
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/16.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/16.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#16)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -725,7 +725,7 @@ PRESS STARTは、寄り道要素の多い探索ゲームです。
 
 ## 17.グレンの七日間
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/17.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/17.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#17)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -760,7 +760,7 @@ PRESS STARTは、寄り道要素の多い探索ゲームです。
 
 ## 18.シャーロックα行方不明の館
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/18.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/18.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#18)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -785,7 +785,7 @@ PRESS STARTは、寄り道要素の多い探索ゲームです。
 
 ## 19.◆-晩餐-◆
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/19.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/19.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#19)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -814,7 +814,7 @@ PRESS STARTは、寄り道要素の多い探索ゲームです。
 
 ## 20.マサオさがし
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/20.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/20.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#20)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -853,7 +853,7 @@ PRESS STARTは、寄り道要素の多い探索ゲームです。
 
 ## 21.Life XI(ライフ イレブン)
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/21.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/21.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#21)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -882,7 +882,7 @@ Life XI(ライフ イレブン)は、RPGです。
 
 ## 22.一朶の仇花
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/22.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/22.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#22)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -917,7 +917,7 @@ Life XI(ライフ イレブン)は、RPGです。
 
 ## 23.ルナークの瞳――かなえのこころ + α
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/23.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/23.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#23)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -947,7 +947,7 @@ RPG、アクション、落ちもの、リバーシ、連打と様々なゲー�
 
 ## 25.ゴートマウンテン
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/25.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/25.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#25)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -981,7 +981,7 @@ RPG、アクション、落ちもの、リバーシ、連打と様々なゲー�
 
 ## 26.ミドリとアカリの神社詣り
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/26.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/26.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#26)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1011,7 +1011,7 @@ RPG、アクション、落ちもの、リバーシ、連打と様々なゲー�
 
 ## 27.クローン実験体#000の選定テスト-バトルロイヤル1日目-
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/27.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/27.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#27)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1045,7 +1045,7 @@ CPU99体を相手取り、時には逃げ、時には立ち向かって最後の
 
 ## 28.here
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/28.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/28.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#28)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1090,7 +1090,7 @@ hereは、緊張感と臨場感に溢れるアクションゲームです。
 
 ## 29.デクサトイクサ！
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/29.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/29.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#29)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1120,7 +1120,7 @@ hereは、緊張感と臨場感に溢れるアクションゲームです。
 
 ## 30.AROMA INNにようこそ～小さな町での大きな事件～
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/30.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/30.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#30)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1153,7 +1153,7 @@ AROMA INNにようこそ～小さな町での大きな事件～は、プレゼ�
 
 ## 31.Mythical Fantasy - story of finding myself -
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/31.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/31.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#31)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1198,7 +1198,7 @@ Mythical Fantasy - story of finding myself -は、王道に王道を重ねたよ
 
 ## 32.Night requiem
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/32.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/32.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#32)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1224,7 +1224,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 33.うろうろすぴりっつ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/33.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/33.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#33)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1259,7 +1259,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 34.ありすコンプレックス
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/34.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/34.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#34)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1297,7 +1297,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 35.エディの人間大砲
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/35.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/35.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#35)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1335,7 +1335,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 36.黒幕はコケの助
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/36.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/36.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#36)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1366,7 +1366,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 37.あなたととあるドラゴンのお話3D
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/37.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/37.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#37)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1391,7 +1391,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 38.ヴァーミリオンの青空
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/38.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/38.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#38)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1432,7 +1432,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 39.飽くなき不満のその先に
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/39.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/39.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#39)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1459,7 +1459,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 40.ひたすらドラゴンを倒すだけ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/40.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/40.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#40)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1491,7 +1491,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 41.世界荒廃少女
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/41.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/41.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#41)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1525,7 +1525,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 42.ニワトリアドベンチャー
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/42.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/42.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#42)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1553,7 +1553,7 @@ Night requiemは、マップの広いRPGです。
 
 ## 43.Eureka-ユリーカ-
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/43.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/43.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#43)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1588,7 +1588,7 @@ Eureka-ユリーカ-は、謎解きをやや含むアクションアドベンチ
 
 ## 44.ヒルドラクエスト
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/44.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/44.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#44)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1624,7 +1624,7 @@ Eureka-ユリーカ-は、謎解きをやや含むアクションアドベンチ
 
 ## 45.つよいせんしのものがたり　～敗北の味～
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/45.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/45.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#45)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1650,7 +1650,7 @@ Eureka-ユリーカ-は、謎解きをやや含むアクションアドベンチ
 
 ## 46.パフェパフェ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/46.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/46.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#46)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1681,7 +1681,7 @@ Eureka-ユリーカ-は、謎解きをやや含むアクションアドベンチ
 
 ## 47.儚き灯火
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/47.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/47.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#47)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1729,7 +1729,7 @@ SRPGが苦手な方に向けて、カジュアルモードも用意されてい�
 
 ## 48.取材、お布団敷き、謎解き
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/48.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/48.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#48)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1759,7 +1759,7 @@ SRPGが苦手な方に向けて、カジュアルモードも用意されてい�
 
 ## 49.古志虎冒険記
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/49.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/49.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#49)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1785,7 +1785,7 @@ SRPGが苦手な方に向けて、カジュアルモードも用意されてい�
 
 ## 52.天使の決断
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/52.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/52.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#52)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1812,7 +1812,7 @@ SRPGが苦手な方に向けて、カジュアルモードも用意されてい�
 
 ## 53.for get
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/53.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/53.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#53)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1841,7 +1841,7 @@ for getは、行動分岐アドベンチャーゲームです。
 
 ## 54.filled with love
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/54.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/54.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#54)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1874,7 +1874,7 @@ filled with loveは、雰囲気の良いRPGです。
 
 ## 55.好きなキャラでダンジョン行きたいッ！
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/55.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/55.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#55)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1908,7 +1908,7 @@ filled with loveは、雰囲気の良いRPGです。
 
 ## 56.僕はただバナナを食べてるだけだったんだ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/56.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/56.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#56)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1942,7 +1942,7 @@ filled with loveは、雰囲気の良いRPGです。
 
 ## 57.TEST
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/57.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/57.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#57)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1998,7 +1998,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 59.＃ないん・えいと
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/59.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/59.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#59)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2034,7 +2034,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 60.見習い猫の小さな冒険
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/60.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/60.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#60)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2063,7 +2063,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 61.あの娘とオレと時々ヒヨコ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/61.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/61.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#61)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2090,7 +2090,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 62.探究者
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/62.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/62.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#62)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2117,7 +2117,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 63.勇者カンパニー
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/63.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/63.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#63)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2156,7 +2156,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 64.八人のアダム外伝
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/64.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/64.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#64)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2191,7 +2191,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 65.アイノメ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/65.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/65.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#65)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2218,7 +2218,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 66.へるげえと3
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/66.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/66.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#66)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2251,7 +2251,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 67.星紡ぎ
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/67.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/67.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#67)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2289,7 +2289,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 68.蒼杖の魔導士
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/68.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/68.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#68)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2322,7 +2322,7 @@ TESTは、ハクスラのようなシンプルなARPGです。
 
 ## 69.House Guarder ～家を守る男～
 
-![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/69.jpg)
+[![サムネイル](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/69.jpg)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml#69)
 
 | ジャンル | 作者 | クリア時間 | クリアVer | クリア状況 | 確認Ver | 最終プレイ時間 |
 | --- | --- | --- | --- | --- | --- | --- |
