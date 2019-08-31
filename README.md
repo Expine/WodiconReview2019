@@ -8,9 +8,8 @@
 * レビュー内容は主にプレイ当時のバージョンに基づいています。最新バージョンと異なる場合がありますがご了承ください。
 
 # 前書き
-<!--
 [![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry11/CMbanner.png)](https://www.silversecond.com/WolfRPGEditor/Contest/result11.shtml)
--->
+
 WOLF RPGエディターコンテスト(ウディコン)は、ウディタ製のゲームを競う、年一回開催のコンテストです。
 今回で第11回を迎え、エントリーされたのは65作品と前年度を上回る数のゲームが出展されました。既知の期待していた作品から、サムネイルが目に留まる作品、やってみると面白い作品まで、今年もまた楽しくプレイさせていただきました。
 

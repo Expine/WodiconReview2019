@@ -32,6 +32,7 @@ head.insertAdjacentHTML(`beforeend`, `<meta property="article:tag" content="ウ�
 head.insertAdjacentHTML(`beforeend`, `<meta property="article:tag" content="レビュー">`);
 // Twitter対応
 head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:card" content="summary_large_image">`);
+head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:site" content="@_narratology">`);
 head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:title" content="${title}">`);
 head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:description" content="${disc}">`);
 head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:url" content="${url}">`);
