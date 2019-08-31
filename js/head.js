@@ -40,4 +40,4 @@ head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:label1" content="Writt
 head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:data1" content="narratology">`);
 head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:label2" content="Filed under">`);
 head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:data2" content="ウディタ, ウディコン, レビュー">`);
-head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:creator" content="@uyutumaria">`);
+head.insertAdjacentHTML(`beforeend`, `<meta name="twitter:creator" content="@_narratology">`);
