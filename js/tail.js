@@ -33,12 +33,12 @@ function sortEvent(tbody, idx) {
 	};
 }
 
-// var ts = document.getElementsByTagName('table');
-// for(var i = ts.length; i--; ) {
-// 	var ths = ts[i].tHead.getElementsByTagName('th');
-// 	for(var j = ths.length; j--; )
-// 		ths[j].addEventListener("click", sortEvent(ts[i].tBodies[0], j));
-// }
+const ts = document.getElementsByTagName('table');
+for(let i = ts.length; i--; ) {
+	const ths = ts[i].tHead.getElementsByTagName('th');
+	for(let j = ths.length; j--; )
+		ths[j].addEventListener("click", sortEvent(ts[i].tBodies[0], j));
+}
 
 const bad = "気になった点";
 for (var idx = 1; idx < 70; ++idx) {
